@@ -2,7 +2,12 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
+# 参考教程 https://www.youtube.com/watch?v=2vOCxJZZ2rU
+# https://cr.console.aliyun.com/cn-hangzhou/instance/namespaces
 
 mongo:4.4.25
+rabbitmq:3.9.13-management-alpine
+mysql:5.7
+redis:7.0.5
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
