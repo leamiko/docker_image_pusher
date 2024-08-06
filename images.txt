@@ -5,7 +5,7 @@
 # 参考教程 https://www.youtube.com/watch?v=2vOCxJZZ2rU
 # https://cr.console.aliyun.com/cn-hangzhou/instance/namespaces
 
-#mongo:4.4.25
+mongo:4.4.25
 #rabbitmq:3.9.13-management-alpine
 #mysql:5.7
 #redis:7.0.5
