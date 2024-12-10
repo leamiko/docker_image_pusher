@@ -33,3 +33,8 @@ rabbitmq:3.10.7-alpine
 doccano/doccano:frontend
 postgres:13.3-alpine
 # doccano end
+
+# python构建 start
+python:3.11-slim
+debian:bullseye-slim
+# python构建 end
