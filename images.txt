@@ -26,3 +26,10 @@ clickhouse/clickhouse-server:23.11-alpine
 timberio/vector:0.26.0-alpine
 grafana/grafana-oss:10.1.2
 # cvat end
+
+# doccano start
+doccano/doccano:backend
+rabbitmq:3.10.7-alpine
+doccano/doccano:frontend
+postgres:13.3-alpine
+# doccano end
